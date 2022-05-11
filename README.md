@@ -3,5 +3,5 @@ Sitemap Generator for Laravel Framework (For own Project)
 
 Installation:
 ```
-composer install uzsoftic/sitemap-generator
+composer require uzsoftic/sitemap-generator
 ```
