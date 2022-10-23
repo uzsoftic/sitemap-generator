@@ -8,5 +8,6 @@ composer require uzsoftic/sitemap-generator
 
 ENV variables:
 ```
-SITEMAP-GENERATOR: true
+SITEMAP-GENERATOR:true
+SITEMAP-CRON:everyday
 ```
